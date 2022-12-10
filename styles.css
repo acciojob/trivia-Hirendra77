@@ -1,2 +1,10 @@
 
-/* Your CSS Code here. */
+.text{
+    font-weight: bold;
+    width: 600px;
+    padding: 15px;
+    margin: 10px;
+    border-left: 8px solid green;
+    background-color:  #f8fffe
+    
+}
